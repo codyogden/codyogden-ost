@@ -14,3 +14,9 @@ This is a test.
 
 sdfsdf
 
+```javascript
+function hello_world() {
+    return true;
+}
+```
+
